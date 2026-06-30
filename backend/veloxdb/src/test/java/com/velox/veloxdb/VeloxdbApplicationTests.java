@@ -1,0 +1,13 @@
+package com.velox.veloxdb;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class VeloxdbApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
